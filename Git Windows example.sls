@@ -1,4 +1,4 @@
-  git_feed:
+git_feed:
   pkgrepo.managed:
   - name: git
   - uri: "https://test.systemlink.io/nirepo/v1/files/feeds/git"
